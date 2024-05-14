@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3150c77e.css",
+    "main.js": "/static/js/main.cba9cd42.js",
+    "static/js/453.4507ac20.chunk.js": "/static/js/453.4507ac20.chunk.js",
+    "static/media/CONVERSE.png": "/static/media/CONVERSE.0b21e711a6cb0c369bf7.png",
+    "index.html": "/index.html",
+    "main.3150c77e.css.map": "/static/css/main.3150c77e.css.map",
+    "main.cba9cd42.js.map": "/static/js/main.cba9cd42.js.map",
+    "453.4507ac20.chunk.js.map": "/static/js/453.4507ac20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3150c77e.css",
+    "static/js/main.cba9cd42.js"
+  ]
+}
